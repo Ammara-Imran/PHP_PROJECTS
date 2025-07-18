@@ -38,10 +38,10 @@ Data validations are handled using PHP, and the layout is styled with Bootstrap.
 
 ---
 
-## 📸 Screenshots
+## 🖼️ Screenshots
 
 | Admin Panel | Database View |
-|-------------|----------------|
+|-------------|--------------|
 | ![Admin Panel](adminpanel.jpeg) | ![Form Data in DB](formdb.jpeg) |
 
 > 📌 More screenshots available in the project folder.
